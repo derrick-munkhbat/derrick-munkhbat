@@ -1,4 +1,4 @@
-
+![MasterHead](https://raw.githubusercontent.com/derrick-munkhbat/derrick-munkhbat/main/images/github-ub.jpg)
 <h1 align="center">Hi 👋, I'm Derrick Munkhbat</h1>
 <h3 align="center">A junior full-stack developer from Mongolia</h3>
 <p align="center">
