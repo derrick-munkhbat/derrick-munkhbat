@@ -1,13 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Derrick Munkhbat</h1>
-<h3 align="center">A junior frontend developer from Mongolia</h3>
+<h3 align="center">A junior full-stack developer from Mongolia</h3>
+<p align="center">
+  <img alt="Snake" src="https://github.com/sophearyrin-dev/sophearyrin-dev/blob/output/github-contribution-grid-snake.svg" />
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on <a href="blog-api](blog-coral-zeta-72.vercel.app">sample blog website</a>
+
+- 🔭 I’m currently working on my <a href="https://derrick-munkhbat-portfolio.vercel.app/">portfolio website</a>
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at this github or at <a href="https://vercel.com/derrick-munkhbat-personal">my vercel account</a>
+- 👨‍💻 All of my projects are available at my <a href="https://github.com/derrick-munkhbat">github</a> or at <a href="https://vercel.com/derrick-munkhbat-personal">my vercel</a>
 
 - 📄 Know about my experiences <a href="https://githubusercontent.com/derrick-munkhbat/derrick-munkhbat/raw/main/derrick-fullstack.pdf" target="_blank" rel="noopener noreferrer">View my resume</a>
 
@@ -15,12 +19,51 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/derrick-munkhbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derrick-munkhbat" height="30" width="40" /></a>
-<a href="https://fb.com/munkhdulguun24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="munkhdulguun24" height="30" width="40" /></a>
-<a href="https://instagram.com/3d6g9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3d6g9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/derrick-munkhbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://fb.com/munkhdulguun24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb" height="30" width="40" /></a>
+<a href="https://instagram.com/3d6g9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig" height="30" width="40" /></a>
+<a href="https://github/derrick-munkhbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derrick-munkhbat&show_icons=true&locale=en&layout=compact" alt="derrick-munkhbat" /></p>
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=black)
+
+
+<p align="center">
+  <a href="https://github.com/derrick-munkhbat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrick-munkhbat&show_icons=true&locale=en&layout=compact" alt="derrick-munkhbat's Github Contribution"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/derrick-munkhbat">
+    <img src="https://github-readme-stats.vercel.app/api?username=derrick-munkhbat&&show_icons=true&locale=en&layout=compact" alt="derrick-munkhbat's Github Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/derrick-munkhbat">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=derrick-munkhbat&&show_icons=true&locale=en&layout=compact" alt="derrick-munkhbat's Github Contribution"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/derrick-munkhbat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derrick-munkhbat&&show_icons=true&locale=en&layout=compact" alt="derrick-munkhbat's Github Contribution"/>
+  </a>
+</p>
