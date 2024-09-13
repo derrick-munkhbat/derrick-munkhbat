@@ -11,6 +11,7 @@
 
 - 📄 Know about my experiences [https://github.com/derrick-fullstack/derrick-munkhbat/raw/main/derrick-fullstack.pdf)
 
+<a href="https://githubusercontent.com/derrick-munkhbat/derrick-munkhbat/raw/main/derrick-fullstack.pdf" target="_blank" rel="noopener noreferrer">View my resume</a>
 
 - 📫 How to reach me **derrick.munkhbat@gmail.com**
 
