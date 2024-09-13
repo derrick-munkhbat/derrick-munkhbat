@@ -13,7 +13,8 @@
 
 - 👨‍💻 All of my projects are available at my <a href="https://github.com/derrick-munkhbat">github</a> or at <a href="https://vercel.com/derrick-munkhbat-personal">my vercel</a>
 
-- 📄 Know about my experiences <a href="https://githubusercontent.com/derrick-munkhbat/derrick-munkhbat/raw/main/derrick-fullstack.pdf" target="_blank" rel="noopener noreferrer">View my resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_84Mm-AaScXMX1dr3xDkGeTFgy2Tni9P" target="_blank" rel="noopener noreferrer">View my resume</a>
+
 
 - 📫 How to reach me **derrick.munkhbat@gmail.com**
 
