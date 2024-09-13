@@ -3,11 +3,11 @@
 <h3 align="center">A junior frontend developer from Mongolia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [blog-api](blog-coral-zeta-72.vercel.app)
+- 🔭 I’m currently working on <a href="blog-api](blog-coral-zeta-72.vercel.app">sample blog website</a>
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/derrick-munkhbat-personal)
+- 👨‍💻 All of my projects are available at this github or at <a href="https://vercel.com/derrick-munkhbat-personal">my vercel account</a>
 
 - 📄 Know about my experiences <a href="https://githubusercontent.com/derrick-munkhbat/derrick-munkhbat/raw/main/derrick-fullstack.pdf" target="_blank" rel="noopener noreferrer">View my resume</a>
 
