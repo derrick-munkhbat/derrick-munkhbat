@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/derrick-munkhbat-personal)
 
-- 📄 Know about my experiences [https://github.com/derrick-fullstack/derrick-munkhbat/raw/main/derrick-fullstack.pdf)
-
-<a href="https://githubusercontent.com/derrick-munkhbat/derrick-munkhbat/raw/main/derrick-fullstack.pdf" target="_blank" rel="noopener noreferrer">View my resume</a>
+- 📄 Know about my experiences <a href="https://githubusercontent.com/derrick-munkhbat/derrick-munkhbat/raw/main/derrick-fullstack.pdf" target="_blank" rel="noopener noreferrer">View my resume</a>
 
 - 📫 How to reach me **derrick.munkhbat@gmail.com**
 
