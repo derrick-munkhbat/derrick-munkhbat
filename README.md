@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dzone24](https://github.com/derrick-munkhbat)
+- 👨‍💻 All of my projects are available at [https://vercel.com/derrick-munkhbat-personal)
 
 - 📫 How to reach me **derrick.munkhbat@gmail.com**
 
